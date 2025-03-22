@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">СМС Виджет</string>
+    <string name="error_no_sim">Вставьте SIM-карту</string>
+    <string name="error_sim_not_selected">Выберите SIM-карту</string>
+</resources>
